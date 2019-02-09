@@ -1,2 +1,4 @@
 # hello-world
-First steps into something new
+First steps learning github
+Hi. This is what happens when you decide you don´t like the way your keboard leds behave on linux.
+You start learning something new.
